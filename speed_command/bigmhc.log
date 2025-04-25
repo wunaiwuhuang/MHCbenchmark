@@ -1,0 +1,543 @@
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*01:01_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*01:01_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*01:01_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*01:01_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*02:01_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*02:01_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*02:01_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*02:01_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*11:01_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*11:01_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*11:01_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*11:01_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*23:01_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*23:01_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*23:01_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*23:01_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*24:02_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*24:02_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*24:02_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-A*24:02_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*07:02_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*07:02_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*07:02_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*07:02_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*15:02_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*15:02_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*15:02_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*15:02_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*40:01_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*40:01_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*40:01_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*40:01_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*44:02_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*44:02_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*44:02_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*44:02_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_9.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*51:01_10.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_10.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*51:01_11.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_11.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*51:01_8.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_8.csv
+processing /data1/wuguojia/data/mhc_benchmark/speedbase/csv_bigmhc/HLA-B*51:01_9.csv.../data1/wuguojia/software/miniconda/envs/bigmhc/lib/python3.9/site-packages/torch/utils/data/dataloader.py:554: UserWarning: This DataLoader will create 44 worker processes in total. Our suggested max number of worker in current system is 10, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+constructed 100 rows
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat512...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat1024...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat2048...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat4096...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat8192...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat16384...done
+loading model /data1/wuguojia/data/mhc_benchmark/tools/bigmhc/models/bat32768...done
+starting prediction devices: []
+batch 1/1
+writing predictions to /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_9.csv
+	Command being timed: "bash /home/wuguojia/biocode/mhc_benchmark/speed_command/bigmhc_command.sh"
+	User time (seconds): 2497.55
+	System time (seconds): 455.30
+	Percent of CPU this job got: 459%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:42.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3045768
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 81
+	Minor (reclaiming a frame) page faults: 49998820
+	Voluntary context switches: 185029
+	Involuntary context switches: 16615792
+	Swaps: 0
+	File system inputs: 296296
+	File system outputs: 576
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

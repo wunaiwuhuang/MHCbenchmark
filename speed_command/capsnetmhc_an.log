@@ -1,0 +1,263 @@
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+[Encoding method2]: blosum
+[max_len_hla]: 34
+[max_len_pep]: 15
+/data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/test.py:55: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'))
+[Testing result file]: /data1/wuguojia/data/mhc_benchmark/tools/CapsNet-MHC/codes/Anthem_codes/Anthem_test/weekly_result.txt
+	Command being timed: "bash /home/wuguojia/biocode/mhc_benchmark/speed_command/capsnetmhc_an_command.sh"
+	User time (seconds): 620.55
+	System time (seconds): 161.78
+	Percent of CPU this job got: 309%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:13.10
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1140304
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 366
+	Minor (reclaiming a frame) page faults: 47712335
+	Voluntary context switches: 58669
+	Involuntary context switches: 505527
+	Swaps: 0
+	File system inputs: 1501768
+	File system outputs: 2096
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

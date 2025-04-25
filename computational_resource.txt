@@ -1,0 +1,56 @@
+(base) [wuguojia@localhost mhc_benchmark]$ lscpu
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              176
+On-line CPU(s) list: 0-175
+Thread(s) per core:  2
+Core(s) per socket:  22
+Socket(s):           4
+NUMA node(s):        4
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               85
+Model name:          Intel(R) Xeon(R) Gold 6238 CPU @ 2.10GHz
+Stepping:            7
+CPU MHz:             3323.881
+CPU max MHz:         3700.0000
+CPU min MHz:         1000.0000
+BogoMIPS:            4200.00
+Virtualization:      VT-x
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            1024K
+L3 cache:            30976K
+NUMA node0 CPU(s):   0-21,88-109
+NUMA node1 CPU(s):   22-43,110-131
+NUMA node2 CPU(s):   44-65,132-153
+NUMA node3 CPU(s):   66-87,154-175
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cdp_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm cqm mpx rdt_a avx512f avx512dq rdseed adx smap clflushopt clwb intel_pt avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req pku ospke avx512_vnni md_clear flush_l1d arch_capabilities
+
+(base) [wuguojia@localhost mhc_benchmark]$ cat /proc/cpuinfo | grep "model name" | uniq
+model name      : Intel(R) Xeon(R) Gold 6238 CPU @ 2.10GHz
+
+(base) [wuguojia@localhost mhc_benchmark]$ free -h
+              total        used        free      shared  buff/cache   available
+Mem:          1.0Ti        43Gi       134Gi        89Mi       828Gi       958Gi
+Swap:         4.0Gi       3.0Gi       980Mi
+
+(base) [wuguojia@localhost mhc_benchmark]$ cat /proc/meminfo | grep MemTotal
+MemTotal:       1055942468 kB
+
+(base) [wuguojia@localhost mhc_benchmark]$ cat /etc/os-release
+NAME="CentOS Linux"
+VERSION="8"
+ID="centos"
+ID_LIKE="rhel fedora"
+VERSION_ID="8"
+PLATFORM_ID="platform:el8"
+PRETTY_NAME="CentOS Linux 8"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:centos:centos:8"
+HOME_URL="https://centos.org/"
+BUG_REPORT_URL="https://bugs.centos.org/"
+CENTOS_MANTISBT_PROJECT="CentOS-8"
+CENTOS_MANTISBT_PROJECT_VERSION="8"
+

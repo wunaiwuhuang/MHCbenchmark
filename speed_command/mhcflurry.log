@@ -1,0 +1,783 @@
+2024-11-02 16:34:11.237442: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:34:12.305417: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 403ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 323ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 110ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.35s/it]100%|██████████| 1/1 [00:02<00:00,  2.35s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 261ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.03it/s]100%|██████████| 1/1 [00:00<00:00,  1.03it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_10.csv
+2024-11-02 16:34:46.732440: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:34:46.762934: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 179ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 388ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.29s/it]100%|██████████| 1/1 [00:02<00:00,  2.29s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 279ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.49s/it]100%|██████████| 1/1 [00:01<00:00,  1.49s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_11.csv
+2024-11-02 16:35:00.123085: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:35:00.153275: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 179ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 417ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 124ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.37s/it]100%|██████████| 1/1 [00:02<00:00,  2.37s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 283ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.22s/it]100%|██████████| 1/1 [00:01<00:00,  1.22s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_8.csv
+2024-11-02 16:35:12.806981: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:35:12.837036: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 189ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 125ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 410ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 123ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.37s/it]100%|██████████| 1/1 [00:02<00:00,  2.37s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 270ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.10it/s]100%|██████████| 1/1 [00:00<00:00,  1.10it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*01:01_9.csv
+2024-11-02 16:35:25.441845: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:35:25.475077: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 177ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 124ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 319ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.24s/it]100%|██████████| 1/1 [00:02<00:00,  2.24s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 270ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.66s/it]100%|██████████| 1/1 [00:01<00:00,  1.66s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_10.csv
+2024-11-02 16:35:37.609990: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:35:37.642974: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 179ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 385ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 127ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.29s/it]100%|██████████| 1/1 [00:02<00:00,  2.29s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 276ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.08it/s]100%|██████████| 1/1 [00:00<00:00,  1.07it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_11.csv
+2024-11-02 16:35:52.236333: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:35:52.269171: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 173ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 313ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 122ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.14s/it]100%|██████████| 1/1 [00:02<00:00,  2.14s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 271ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.04it/s]100%|██████████| 1/1 [00:00<00:00,  1.04it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_8.csv
+2024-11-02 16:36:03.185948: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:36:03.218881: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 174ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 320ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.18s/it]100%|██████████| 1/1 [00:02<00:00,  2.18s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 270ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.42s/it]100%|██████████| 1/1 [00:02<00:00,  2.42s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*02:01_9.csv
+2024-11-02 16:36:15.727459: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:36:15.759559: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 179ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 405ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 124ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.28s/it]100%|██████████| 1/1 [00:02<00:00,  2.28s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 273ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.06it/s]100%|██████████| 1/1 [00:00<00:00,  1.06it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_10.csv
+2024-11-02 16:36:27.288153: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:36:27.320865: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 185ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 405ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.33s/it]100%|██████████| 1/1 [00:02<00:00,  2.33s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 275ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.19s/it]100%|██████████| 1/1 [00:02<00:00,  2.19s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_11.csv
+2024-11-02 16:36:40.124918: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:36:40.166822: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 184ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 394ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 128ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.30s/it]100%|██████████| 1/1 [00:02<00:00,  2.30s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 285ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.87s/it]100%|██████████| 1/1 [00:02<00:00,  2.87s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_8.csv
+2024-11-02 16:36:53.832171: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:36:53.864536: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 182ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 402ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.35s/it]100%|██████████| 1/1 [00:02<00:00,  2.35s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 273ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.08it/s]100%|██████████| 1/1 [00:00<00:00,  1.08it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*11:01_9.csv
+2024-11-02 16:37:06.377325: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:37:06.408558: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 182ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 131ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 418ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 145ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 123ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.45s/it]100%|██████████| 1/1 [00:02<00:00,  2.45s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 299ms/step
+100%|██████████| 1/1 [00:03<00:00,  3.41s/it]100%|██████████| 1/1 [00:03<00:00,  3.41s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_10.csv
+2024-11-02 16:37:22.960975: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:37:22.991492: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 181ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 380ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.30s/it]100%|██████████| 1/1 [00:02<00:00,  2.30s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 292ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.11s/it]100%|██████████| 1/1 [00:02<00:00,  2.11s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_11.csv
+2024-11-02 16:37:40.154340: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:37:40.354814: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 208ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 373ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.29s/it]100%|██████████| 1/1 [00:02<00:00,  2.29s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 273ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.83s/it]100%|██████████| 1/1 [00:01<00:00,  1.83s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_8.csv
+2024-11-02 16:37:55.107957: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:37:55.137416: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 174ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 314ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.16s/it]100%|██████████| 1/1 [00:02<00:00,  2.16s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 266ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.90s/it]100%|██████████| 1/1 [00:01<00:00,  1.90s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*23:01_9.csv
+2024-11-02 16:38:07.622167: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:38:07.654310: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 171ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 321ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.19s/it]100%|██████████| 1/1 [00:02<00:00,  2.19s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 268ms/step
+100%|██████████| 1/1 [00:03<00:00,  3.44s/it]100%|██████████| 1/1 [00:03<00:00,  3.44s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_10.csv
+2024-11-02 16:38:27.488552: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:38:27.693903: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 205ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 334ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 124ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.23s/it]100%|██████████| 1/1 [00:02<00:00,  2.23s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 310ms/step
+100%|██████████| 1/1 [00:04<00:00,  4.03s/it]100%|██████████| 1/1 [00:04<00:00,  4.03s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_11.csv
+2024-11-02 16:38:48.040384: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:38:48.237481: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 217ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 346ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.27s/it]100%|██████████| 1/1 [00:02<00:00,  2.27s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 274ms/step
+100%|██████████| 1/1 [00:04<00:00,  4.76s/it]100%|██████████| 1/1 [00:04<00:00,  4.76s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_8.csv
+2024-11-02 16:39:13.820879: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:39:14.030891: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 214ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 331ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.22s/it]100%|██████████| 1/1 [00:02<00:00,  2.22s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 283ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.26s/it]100%|██████████| 1/1 [00:01<00:00,  1.26s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-A*24:02_9.csv
+2024-11-02 16:39:26.718227: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:39:26.749891: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 194ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 134ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 380ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.36s/it]100%|██████████| 1/1 [00:02<00:00,  2.36s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 273ms/step
+100%|██████████| 1/1 [00:03<00:00,  3.08s/it]100%|██████████| 1/1 [00:03<00:00,  3.08s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_10.csv
+2024-11-02 16:39:43.722934: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:39:43.753503: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 180ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 353ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.23s/it]100%|██████████| 1/1 [00:02<00:00,  2.24s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 276ms/step
+100%|██████████| 1/1 [00:04<00:00,  4.59s/it]100%|██████████| 1/1 [00:04<00:00,  4.59s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_11.csv
+2024-11-02 16:40:05.598725: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:40:05.799428: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 211ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 379ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.29s/it]100%|██████████| 1/1 [00:02<00:00,  2.29s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 267ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.45s/it]100%|██████████| 1/1 [00:02<00:00,  2.45s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_8.csv
+2024-11-02 16:40:25.213276: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:40:25.247268: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 174ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 319ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.14s/it]100%|██████████| 1/1 [00:02<00:00,  2.14s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 265ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.17it/s]100%|██████████| 1/1 [00:00<00:00,  1.17it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*07:02_9.csv
+2024-11-02 16:40:39.128104: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:40:39.159079: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 174ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 320ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 124ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.20s/it]100%|██████████| 1/1 [00:02<00:00,  2.20s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 265ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.11it/s]100%|██████████| 1/1 [00:00<00:00,  1.11it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_10.csv
+2024-11-02 16:40:50.139025: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:40:50.173082: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 178ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 319ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 123ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.20s/it]100%|██████████| 1/1 [00:02<00:00,  2.20s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 270ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.11it/s]100%|██████████| 1/1 [00:00<00:00,  1.11it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_11.csv
+2024-11-02 16:41:01.234713: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:41:01.268922: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 184ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 399ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 134ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.33s/it]100%|██████████| 1/1 [00:02<00:00,  2.33s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 276ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.08it/s]100%|██████████| 1/1 [00:00<00:00,  1.08it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_8.csv
+2024-11-02 16:41:13.653142: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:41:13.685872: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 184ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 395ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.34s/it]100%|██████████| 1/1 [00:02<00:00,  2.34s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 275ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.08it/s]100%|██████████| 1/1 [00:00<00:00,  1.08it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*15:02_9.csv
+2024-11-02 16:41:25.519838: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:41:25.552063: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 180ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 133ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 414ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.39s/it]100%|██████████| 1/1 [00:02<00:00,  2.39s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 277ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.38s/it]100%|██████████| 1/1 [00:01<00:00,  1.38s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_10.csv
+2024-11-02 16:41:37.838810: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:41:37.872225: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 186ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 408ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 129ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.38s/it]100%|██████████| 1/1 [00:02<00:00,  2.38s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 283ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.05it/s]100%|██████████| 1/1 [00:00<00:00,  1.05it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_11.csv
+2024-11-02 16:41:51.700909: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:41:51.734854: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 180ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 386ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.31s/it]100%|██████████| 1/1 [00:02<00:00,  2.31s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 275ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.09it/s]100%|██████████| 1/1 [00:00<00:00,  1.09it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_8.csv
+2024-11-02 16:42:03.547379: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:42:03.580025: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 182ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 404ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.37s/it]100%|██████████| 1/1 [00:02<00:00,  2.37s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 271ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.10it/s]100%|██████████| 1/1 [00:00<00:00,  1.10it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*40:01_9.csv
+2024-11-02 16:42:15.105592: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:42:15.141216: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 198ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 391ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.34s/it]100%|██████████| 1/1 [00:02<00:00,  2.34s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 274ms/step
+100%|██████████| 1/1 [00:01<00:00,  1.27s/it]100%|██████████| 1/1 [00:01<00:00,  1.27s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_10.csv
+2024-11-02 16:42:27.961723: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:42:27.999800: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 184ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 400ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 125ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.37s/it]100%|██████████| 1/1 [00:02<00:00,  2.37s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 269ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.11it/s]100%|██████████| 1/1 [00:00<00:00,  1.11it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_11.csv
+2024-11-02 16:42:40.868975: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:42:40.904286: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 186ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 410ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 122ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.35s/it]100%|██████████| 1/1 [00:02<00:00,  2.35s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 277ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.63s/it]100%|██████████| 1/1 [00:02<00:00,  2.63s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_8.csv
+2024-11-02 16:42:55.341628: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:42:55.375777: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 177ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 123ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 364ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 123ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 122ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 125ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.29s/it]100%|██████████| 1/1 [00:02<00:00,  2.29s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 266ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.52s/it]100%|██████████| 1/1 [00:02<00:00,  2.52s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*44:02_9.csv
+2024-11-02 16:43:12.572919: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:43:12.607449: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 178ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 339ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.19s/it]100%|██████████| 1/1 [00:02<00:00,  2.19s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 271ms/step
+100%|██████████| 1/1 [00:03<00:00,  3.26s/it]100%|██████████| 1/1 [00:03<00:00,  3.26s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_10.csv
+2024-11-02 16:43:28.930088: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:43:28.962743: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 173ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 119ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 329ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 121ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.18s/it]100%|██████████| 1/1 [00:02<00:00,  2.18s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 271ms/step
+100%|██████████| 1/1 [00:04<00:00,  4.72s/it]100%|██████████| 1/1 [00:04<00:00,  4.72s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_11.csv
+2024-11-02 16:43:45.209322: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:43:45.243540: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 177ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 332ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 117ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 124ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.18s/it]100%|██████████| 1/1 [00:02<00:00,  2.18s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 267ms/step
+100%|██████████| 1/1 [00:03<00:00,  3.05s/it]100%|██████████| 1/1 [00:03<00:00,  3.05s/it]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_8.csv
+2024-11-02 16:44:02.263276: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-02 16:44:02.297380: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:root:No flanking information provided. Specify --no-flanking to silence this warning
+Read input CSV with 100 rows, columns are: allele, peptide
+Predicting processing.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 176ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 128ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 326ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 118ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 120ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 114ms/step
+100%|██████████| 1/1 [00:02<00:00,  2.21s/it]100%|██████████| 1/1 [00:02<00:00,  2.21s/it]
+Predicting affinities.
+  0%|          | 0/1 [00:00<?, ?it/s]1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 269ms/step
+100%|██████████| 1/1 [00:00<00:00,  1.13it/s]100%|██████████| 1/1 [00:00<00:00,  1.13it/s]
+Wrote: /data1/wuguojia/data/mhc_benchmark/speedbase/result/HLA-B*51:01_9.csv
+	Command being timed: "bash /home/wuguojia/biocode/mhc_benchmark/speed_command/mhcflurry_command.sh"
+	User time (seconds): 505.31
+	System time (seconds): 165.91
+	Percent of CPU this job got: 108%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 10:17.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 947100
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1455
+	Minor (reclaiming a frame) page faults: 13812786
+	Voluntary context switches: 215826
+	Involuntary context switches: 2161705
+	Swaps: 0
+	File system inputs: 6426424
+	File system outputs: 2848
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

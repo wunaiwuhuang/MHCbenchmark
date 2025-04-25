@@ -1,0 +1,624 @@
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+[Encoding method2]: blosum
+[max_len_hla]: 385
+[max_len_pep]: 15
+Traceback (most recent call last):
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 135, in <module>
+    main()
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 131, in main
+    test(config, data_provider[0])
+  File "/data1/wuguojia/data/mhc_benchmark/tools/DeepAttentionPan/codes/test.py", line 56, in test
+    state_dict = torch.load(config.model_save_path(p*config.model_count+k),map_location=torch.device('cpu'),weights_only=True)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 608, in load
+    return _legacy_load(opened_file, map_location, pickle_module, **pickle_load_args)
+  File "/data1/wuguojia/software/miniconda/envs/STMHCpan/lib/python3.7/site-packages/torch/serialization.py", line 777, in _legacy_load
+    magic_number = pickle_module.load(f, **pickle_load_args)
+TypeError: 'weights_only' is an invalid keyword argument for load()
+Command exited with non-zero status 1
+	Command being timed: "bash /home/wuguojia/biocode/mhc_benchmark/speed_command/deepattentionpan_command.sh"
+	User time (seconds): 113.66
+	System time (seconds): 33.93
+	Percent of CPU this job got: 133%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:50.95
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 400032
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 298
+	Minor (reclaiming a frame) page faults: 4093438
+	Voluntary context switches: 3615
+	Involuntary context switches: 4478039
+	Swaps: 0
+	File system inputs: 965064
+	File system outputs: 1624
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
