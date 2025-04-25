@@ -57,4 +57,4 @@ This repository contains the code and final results for the research project. Th
 ---
 
 ## Citation
-If you use this code or data, please cite the original paper: [insert citation here].
+If you use this code or data, please cite the original paper: [guojia, W., xiaochuan, L., yuting, W., & Yang, Y. (2025). Comprehensive evaluation and interpretative insights of peptide-HLA binding prediction tools using explainable artificial intelligence. bioRxiv, 2025-04.].
